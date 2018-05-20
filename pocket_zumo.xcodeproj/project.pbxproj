@@ -14,6 +14,12 @@
 		892C358120218AED00222A44 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 892C357F20218AED00222A44 /* LaunchScreen.storyboard */; };
 		892C358C20218AED00222A44 /* pocket_zumoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 892C358B20218AED00222A44 /* pocket_zumoTests.swift */; };
 		892C359720218AED00222A44 /* pocket_zumoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 892C359620218AED00222A44 /* pocket_zumoUITests.swift */; };
+		893956AA2022B8410026F58B /* 大.png in Resources */ = {isa = PBXBuildFile; fileRef = 893956A72022B8410026F58B /* 大.png */; };
+		893956AB2022B8410026F58B /* 中.png in Resources */ = {isa = PBXBuildFile; fileRef = 893956A82022B8410026F58B /* 中.png */; };
+		893956AC2022B8410026F58B /* 小.png in Resources */ = {isa = PBXBuildFile; fileRef = 893956A92022B8410026F58B /* 小.png */; };
+		893956AE2022E0610026F58B /* 背景.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 893956AD2022E0610026F58B /* 背景.jpg */; };
+		893956B02022E2C30026F58B /* IBDesign.swift in Sources */ = {isa = PBXBuildFile; fileRef = 893956AF2022E2C20026F58B /* IBDesign.swift */; };
+		899AF15B20286FC900DBA64E /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 899AF15A20286FC900DBA64E /* icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +53,12 @@
 		892C359220218AED00222A44 /* pocket_zumoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pocket_zumoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		892C359620218AED00222A44 /* pocket_zumoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pocket_zumoUITests.swift; sourceTree = "<group>"; };
 		892C359820218AED00222A44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		893956A72022B8410026F58B /* 大.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "大.png"; sourceTree = "<group>"; };
+		893956A82022B8410026F58B /* 中.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "中.png"; sourceTree = "<group>"; };
+		893956A92022B8410026F58B /* 小.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "小.png"; sourceTree = "<group>"; };
+		893956AD2022E0610026F58B /* 背景.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "背景.jpg"; sourceTree = "<group>"; };
+		893956AF2022E2C20026F58B /* IBDesign.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IBDesign.swift; sourceTree = "<group>"; };
+		899AF15A20286FC900DBA64E /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +109,12 @@
 		892C357520218AEC00222A44 /* pocket_zumo */ = {
 			isa = PBXGroup;
 			children = (
+				899AF15A20286FC900DBA64E /* icon.png */,
+				893956AD2022E0610026F58B /* 背景.jpg */,
+				893956A92022B8410026F58B /* 小.png */,
+				893956A72022B8410026F58B /* 大.png */,
+				893956A82022B8410026F58B /* 中.png */,
+				893956AF2022E2C20026F58B /* IBDesign.swift */,
 				892C357620218AEC00222A44 /* AppDelegate.swift */,
 				892C357820218AEC00222A44 /* ViewController.swift */,
 				892C357A20218AED00222A44 /* Main.storyboard */,
@@ -234,7 +252,12 @@
 			files = (
 				892C358120218AED00222A44 /* LaunchScreen.storyboard in Resources */,
 				892C357E20218AED00222A44 /* Assets.xcassets in Resources */,
+				893956AB2022B8410026F58B /* 中.png in Resources */,
+				893956AC2022B8410026F58B /* 小.png in Resources */,
+				899AF15B20286FC900DBA64E /* icon.png in Resources */,
 				892C357C20218AED00222A44 /* Main.storyboard in Resources */,
+				893956AE2022E0610026F58B /* 背景.jpg in Resources */,
+				893956AA2022B8410026F58B /* 大.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,6 +284,7 @@
 			files = (
 				892C357920218AEC00222A44 /* ViewController.swift in Sources */,
 				892C357720218AEC00222A44 /* AppDelegate.swift in Sources */,
+				893956B02022E2C30026F58B /* IBDesign.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -427,9 +451,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = NV6EXP3568;
 				INFOPLIST_FILE = pocket_zumo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.nepuson.pocket-zumo";
+				PRODUCT_BUNDLE_IDENTIFIER = nepuson.com.pocketzumo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -441,9 +467,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = NV6EXP3568;
 				INFOPLIST_FILE = pocket_zumo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.nepuson.pocket-zumo";
+				PRODUCT_BUNDLE_IDENTIFIER = nepuson.com.pocketzumo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
