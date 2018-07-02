@@ -7,6 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8909D5D120E8B2DE00CCDC75 /* icon-83.5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8909D5C220E8B2DD00CCDC75 /* icon-83.5@2x.png */; };
+		8909D5D220E8B2DE00CCDC75 /* icon-20@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8909D5C320E8B2DD00CCDC75 /* icon-20@3x.png */; };
+		8909D5D320E8B2DE00CCDC75 /* icon-40.png in Resources */ = {isa = PBXBuildFile; fileRef = 8909D5C420E8B2DD00CCDC75 /* icon-40.png */; };
+		8909D5D420E8B2DE00CCDC75 /* icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8909D5C520E8B2DD00CCDC75 /* icon-60@2x.png */; };
+		8909D5D520E8B2DE00CCDC75 /* icon-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8909D5C620E8B2DD00CCDC75 /* icon-60@3x.png */; };
+		8909D5D620E8B2DE00CCDC75 /* icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8909D5C720E8B2DD00CCDC75 /* icon-76@2x.png */; };
+		8909D5D720E8B2DE00CCDC75 /* icon-40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8909D5C820E8B2DD00CCDC75 /* icon-40@3x.png */; };
+		8909D5D820E8B2DE00CCDC75 /* icon-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8909D5C920E8B2DE00CCDC75 /* icon-40@2x.png */; };
+		8909D5D920E8B2DE00CCDC75 /* icon-29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8909D5CA20E8B2DE00CCDC75 /* icon-29@3x.png */; };
+		8909D5DA20E8B2DE00CCDC75 /* icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = 8909D5CB20E8B2DE00CCDC75 /* icon-76.png */; };
+		8909D5DB20E8B2DE00CCDC75 /* icon-29.png in Resources */ = {isa = PBXBuildFile; fileRef = 8909D5CC20E8B2DE00CCDC75 /* icon-29.png */; };
+		8909D5DC20E8B2DE00CCDC75 /* icon-20.png in Resources */ = {isa = PBXBuildFile; fileRef = 8909D5CD20E8B2DE00CCDC75 /* icon-20.png */; };
+		8909D5DD20E8B2DE00CCDC75 /* icon-20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8909D5CE20E8B2DE00CCDC75 /* icon-20@2x.png */; };
+		8909D5DE20E8B2DE00CCDC75 /* icon-1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 8909D5CF20E8B2DE00CCDC75 /* icon-1024.png */; };
+		8909D5DF20E8B2DE00CCDC75 /* icon-29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8909D5D020E8B2DE00CCDC75 /* icon-29@2x.png */; };
 		892C357720218AEC00222A44 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 892C357620218AEC00222A44 /* AppDelegate.swift */; };
 		892C357920218AEC00222A44 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 892C357820218AEC00222A44 /* ViewController.swift */; };
 		892C357C20218AED00222A44 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 892C357A20218AED00222A44 /* Main.storyboard */; };
@@ -40,6 +55,21 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8909D5C220E8B2DD00CCDC75 /* icon-83.5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-83.5@2x.png"; path = "icon]/iOS/AppIcon.appiconset/icon-83.5@2x.png"; sourceTree = SOURCE_ROOT; };
+		8909D5C320E8B2DD00CCDC75 /* icon-20@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-20@3x.png"; path = "icon]/iOS/AppIcon.appiconset/icon-20@3x.png"; sourceTree = SOURCE_ROOT; };
+		8909D5C420E8B2DD00CCDC75 /* icon-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-40.png"; path = "icon]/iOS/AppIcon.appiconset/icon-40.png"; sourceTree = SOURCE_ROOT; };
+		8909D5C520E8B2DD00CCDC75 /* icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-60@2x.png"; path = "icon]/iOS/AppIcon.appiconset/icon-60@2x.png"; sourceTree = SOURCE_ROOT; };
+		8909D5C620E8B2DD00CCDC75 /* icon-60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-60@3x.png"; path = "icon]/iOS/AppIcon.appiconset/icon-60@3x.png"; sourceTree = SOURCE_ROOT; };
+		8909D5C720E8B2DD00CCDC75 /* icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-76@2x.png"; path = "icon]/iOS/AppIcon.appiconset/icon-76@2x.png"; sourceTree = SOURCE_ROOT; };
+		8909D5C820E8B2DD00CCDC75 /* icon-40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-40@3x.png"; path = "icon]/iOS/AppIcon.appiconset/icon-40@3x.png"; sourceTree = SOURCE_ROOT; };
+		8909D5C920E8B2DE00CCDC75 /* icon-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-40@2x.png"; path = "icon]/iOS/AppIcon.appiconset/icon-40@2x.png"; sourceTree = SOURCE_ROOT; };
+		8909D5CA20E8B2DE00CCDC75 /* icon-29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-29@3x.png"; path = "icon]/iOS/AppIcon.appiconset/icon-29@3x.png"; sourceTree = SOURCE_ROOT; };
+		8909D5CB20E8B2DE00CCDC75 /* icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-76.png"; path = "icon]/iOS/AppIcon.appiconset/icon-76.png"; sourceTree = SOURCE_ROOT; };
+		8909D5CC20E8B2DE00CCDC75 /* icon-29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-29.png"; path = "icon]/iOS/AppIcon.appiconset/icon-29.png"; sourceTree = SOURCE_ROOT; };
+		8909D5CD20E8B2DE00CCDC75 /* icon-20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-20.png"; path = "icon]/iOS/AppIcon.appiconset/icon-20.png"; sourceTree = SOURCE_ROOT; };
+		8909D5CE20E8B2DE00CCDC75 /* icon-20@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-20@2x.png"; path = "icon]/iOS/AppIcon.appiconset/icon-20@2x.png"; sourceTree = SOURCE_ROOT; };
+		8909D5CF20E8B2DE00CCDC75 /* icon-1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-1024.png"; path = "icon]/iOS/AppIcon.appiconset/icon-1024.png"; sourceTree = SOURCE_ROOT; };
+		8909D5D020E8B2DE00CCDC75 /* icon-29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-29@2x.png"; path = "icon]/iOS/AppIcon.appiconset/icon-29@2x.png"; sourceTree = SOURCE_ROOT; };
 		892C357320218AEC00222A44 /* pocket_zumo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pocket_zumo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		892C357620218AEC00222A44 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		892C357820218AEC00222A44 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -109,6 +139,21 @@
 		892C357520218AEC00222A44 /* pocket_zumo */ = {
 			isa = PBXGroup;
 			children = (
+				8909D5CD20E8B2DE00CCDC75 /* icon-20.png */,
+				8909D5CE20E8B2DE00CCDC75 /* icon-20@2x.png */,
+				8909D5C320E8B2DD00CCDC75 /* icon-20@3x.png */,
+				8909D5CC20E8B2DE00CCDC75 /* icon-29.png */,
+				8909D5D020E8B2DE00CCDC75 /* icon-29@2x.png */,
+				8909D5CA20E8B2DE00CCDC75 /* icon-29@3x.png */,
+				8909D5C420E8B2DD00CCDC75 /* icon-40.png */,
+				8909D5C920E8B2DE00CCDC75 /* icon-40@2x.png */,
+				8909D5C820E8B2DD00CCDC75 /* icon-40@3x.png */,
+				8909D5C520E8B2DD00CCDC75 /* icon-60@2x.png */,
+				8909D5C620E8B2DD00CCDC75 /* icon-60@3x.png */,
+				8909D5CB20E8B2DE00CCDC75 /* icon-76.png */,
+				8909D5C720E8B2DD00CCDC75 /* icon-76@2x.png */,
+				8909D5C220E8B2DD00CCDC75 /* icon-83.5@2x.png */,
+				8909D5CF20E8B2DE00CCDC75 /* icon-1024.png */,
 				899AF15A20286FC900DBA64E /* icon.png */,
 				893956AD2022E0610026F58B /* 背景.jpg */,
 				893956A92022B8410026F58B /* 小.png */,
@@ -252,12 +297,27 @@
 			files = (
 				892C358120218AED00222A44 /* LaunchScreen.storyboard in Resources */,
 				892C357E20218AED00222A44 /* Assets.xcassets in Resources */,
+				8909D5DC20E8B2DE00CCDC75 /* icon-20.png in Resources */,
+				8909D5D220E8B2DE00CCDC75 /* icon-20@3x.png in Resources */,
+				8909D5DB20E8B2DE00CCDC75 /* icon-29.png in Resources */,
+				8909D5D420E8B2DE00CCDC75 /* icon-60@2x.png in Resources */,
+				8909D5DF20E8B2DE00CCDC75 /* icon-29@2x.png in Resources */,
+				8909D5DD20E8B2DE00CCDC75 /* icon-20@2x.png in Resources */,
 				893956AB2022B8410026F58B /* 中.png in Resources */,
+				8909D5D820E8B2DE00CCDC75 /* icon-40@2x.png in Resources */,
+				8909D5D920E8B2DE00CCDC75 /* icon-29@3x.png in Resources */,
 				893956AC2022B8410026F58B /* 小.png in Resources */,
+				8909D5D120E8B2DE00CCDC75 /* icon-83.5@2x.png in Resources */,
+				8909D5D520E8B2DE00CCDC75 /* icon-60@3x.png in Resources */,
 				899AF15B20286FC900DBA64E /* icon.png in Resources */,
+				8909D5D720E8B2DE00CCDC75 /* icon-40@3x.png in Resources */,
+				8909D5DE20E8B2DE00CCDC75 /* icon-1024.png in Resources */,
 				892C357C20218AED00222A44 /* Main.storyboard in Resources */,
 				893956AE2022E0610026F58B /* 背景.jpg in Resources */,
+				8909D5D320E8B2DE00CCDC75 /* icon-40.png in Resources */,
+				8909D5D620E8B2DE00CCDC75 /* icon-76@2x.png in Resources */,
 				893956AA2022B8410026F58B /* 大.png in Resources */,
+				8909D5DA20E8B2DE00CCDC75 /* icon-76.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -390,6 +450,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -425,7 +486,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Hayato Sugiyama (NV6EXP3568)";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
@@ -440,6 +501,8 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
+				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "0f4da7e7-5904-4e13-ad80-f60be1992fcc";
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				VALIDATE_PRODUCT = YES;
@@ -450,6 +513,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = NV6EXP3568;
 				INFOPLIST_FILE = pocket_zumo/Info.plist;
@@ -466,6 +530,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = NV6EXP3568;
 				INFOPLIST_FILE = pocket_zumo/Info.plist;
@@ -473,6 +538,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = nepuson.com.pocketzumo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
